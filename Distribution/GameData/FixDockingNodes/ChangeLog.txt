@@ -1,3 +1,5 @@
-﻿V1.0.0
+﻿V1.1.0
+- Make MM patch run in final to avoid other mod conflicts.
+V1.0.0
 - Fix Stock docking port drift. Stock docking ports will no longer drift when undocked or locked.
 	
